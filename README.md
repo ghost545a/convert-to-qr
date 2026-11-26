@@ -2,7 +2,7 @@
 
 Turn any website link into a QR code and download it as a PNG.
 
-**Live:** https://ghost545a.github.io/convert-to-qr/
+**Live:** https://mohammedmahram.blog/convert-to-qr/
 
 - Paste a link (`example.com` works too; `https://` is added for you).
 - Optionally show the link and an extra line of text under the code.
@@ -13,4 +13,4 @@ Everything runs in your browser: plain HTML, CSS and JavaScript, nothing is sent
 
 QR encoding uses [qrcode-generator](https://github.com/kazuhikoarase/qrcode-generator) by Kazuhiko Arase (MIT, see `vendor/LICENSE-qrcode-generator.txt`).
 
-Made by [Mohammed Anwar Mahram](https://ghost545a.github.io/).
+Made by [Mohammed Anwar Mahram](https://mohammedmahram.blog/).
